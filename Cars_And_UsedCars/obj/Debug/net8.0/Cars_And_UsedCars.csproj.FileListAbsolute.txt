@@ -1,0 +1,14 @@
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\bin\Debug\net8.0\Cars_And_UsedCars.exe
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\bin\Debug\net8.0\Cars_And_UsedCars.deps.json
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\bin\Debug\net8.0\Cars_And_UsedCars.runtimeconfig.json
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\bin\Debug\net8.0\Cars_And_UsedCars.dll
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\bin\Debug\net8.0\Cars_And_UsedCars.pdb
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\obj\Debug\net8.0\Cars_And_UsedCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\obj\Debug\net8.0\Cars_And_UsedCars.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\obj\Debug\net8.0\Cars_And_UsedCars.AssemblyInfo.cs
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\obj\Debug\net8.0\Cars_And_UsedCars.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\obj\Debug\net8.0\Cars_And_UsedCars.dll
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\obj\Debug\net8.0\refint\Cars_And_UsedCars.dll
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\obj\Debug\net8.0\Cars_And_UsedCars.pdb
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\obj\Debug\net8.0\Cars_And_UsedCars.genruntimeconfig.cache
+C:\Users\danny\source\repos\Labs\Unit4_Ungraded_Labs\Cars_And_UsedCars\Cars_And_UsedCars\obj\Debug\net8.0\ref\Cars_And_UsedCars.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danny\\source\\repos\\Labs\\Unit4_Ungraded_Labs\\Cars_And_UsedCars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A1E276-424A-4218-A1D9-D5BE28B84623}|Cars_And_UsedCars\\Cars_And_UsedCars.csproj|c:\\users\\danny\\source\\repos\\labs\\unit4_ungraded_labs\\cars_and_usedcars\\cars_and_usedcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A1E276-424A-4218-A1D9-D5BE28B84623}|Cars_And_UsedCars\\Cars_And_UsedCars.csproj|solutionrelative:cars_and_usedcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A1E276-424A-4218-A1D9-D5BE28B84623}|Cars_And_UsedCars\\Cars_And_UsedCars.csproj|c:\\users\\danny\\source\\repos\\labs\\unit4_ungraded_labs\\cars_and_usedcars\\cars_and_usedcars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A1E276-424A-4218-A1D9-D5BE28B84623}|Cars_And_UsedCars\\Cars_And_UsedCars.csproj|solutionrelative:cars_and_usedcars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A1E276-424A-4218-A1D9-D5BE28B84623}|Cars_And_UsedCars\\Cars_And_UsedCars.csproj|c:\\users\\danny\\source\\repos\\labs\\unit4_ungraded_labs\\cars_and_usedcars\\cars_and_usedcars\\usedcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A1E276-424A-4218-A1D9-D5BE28B84623}|Cars_And_UsedCars\\Cars_And_UsedCars.csproj|solutionrelative:cars_and_usedcars\\usedcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsedCar.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\Labs\\Unit4_Ungraded_Labs\\Cars_And_UsedCars\\Cars_And_UsedCars\\UsedCar.cs",
+              "RelativeDocumentMoniker": "Cars_And_UsedCars\\UsedCar.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\Labs\\Unit4_Ungraded_Labs\\Cars_And_UsedCars\\Cars_And_UsedCars\\UsedCar.cs",
+              "RelativeToolTip": "Cars_And_UsedCars\\UsedCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:22:46.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\Labs\\Unit4_Ungraded_Labs\\Cars_And_UsedCars\\Cars_And_UsedCars\\Car.cs",
+              "RelativeDocumentMoniker": "Cars_And_UsedCars\\Car.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\Labs\\Unit4_Ungraded_Labs\\Cars_And_UsedCars\\Cars_And_UsedCars\\Car.cs",
+              "RelativeToolTip": "Cars_And_UsedCars\\Car.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:17:24.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\Labs\\Unit4_Ungraded_Labs\\Cars_And_UsedCars\\Cars_And_UsedCars\\Program.cs",
+              "RelativeDocumentMoniker": "Cars_And_UsedCars\\Program.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\Labs\\Unit4_Ungraded_Labs\\Cars_And_UsedCars\\Cars_And_UsedCars\\Program.cs*",
+              "RelativeToolTip": "Cars_And_UsedCars\\Program.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAywDkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:16:36.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
